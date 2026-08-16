@@ -55,7 +55,7 @@ FIRECRAWL_API_KEY=sua_chave_firecrawl
 FIRECRAWL_API_URL=sua_url_firecrawl
 ```
 
-> Groq e Firecrawl oferecem planos gratuitos (Groq não pede cartão de crédito).
+> Groq e Firecrawl oferecem planos gratuitos.
 
 **5. Crie as pastas necessárias:**
 ```bash
