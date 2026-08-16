@@ -116,7 +116,7 @@ docstoteles-ai/
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Murillo Moya](https://github.com/MurilloMoya). [LinkedIn](https://linkedin.com/in/murillo-moya)
+Desenvolvido por Murillo Moya Martins
 
 Projeto de estudo em Engenharia de IA, com foco em RAG e pipelines de dados não-estruturados da web.
 
@@ -124,6 +124,3 @@ Projeto de estudo em Engenharia de IA, com foco em RAG e pipelines de dados não
 
 Projeto desenvolvido a partir do material de aula da [Asimov Academy](https://github.com/asimov-academy), como parte da trilha de Engenharia de IA. A base do projeto (estrutura, stack e conceito original) veio do curso; a implementação, ajustes e evolução deste repositório são de autoria própria.
 
-## 🚦 Contribuindo
-
-Sugestões, issues e PRs são bem-vindos!
