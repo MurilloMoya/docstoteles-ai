@@ -1,5 +1,4 @@
 # 📚 Docstóteles AI
-
 **IA inteligente sobre qualquer documentação da web**
 
 Transforme qualquer documentação técnica em um assistente de IA capaz de responder perguntas sobre ela, usando scraping inteligente e RAG (Retrieval-Augmented Generation), com ferramentas 100% gratuitas.
@@ -19,7 +18,7 @@ Você cola o link de uma documentação (Django, React, Vue, etc.), o app baixa 
 | Interface | Streamlit |
 | Web Scraping | Firecrawl |
 | RAG / Orquestração | LangChain |
-| LLM | Groq API (llama3-8b) |
+| LLM | Groq API (openai/gpt-oss-120b) |
 | Embeddings | Hugging Face (`all-MiniLM-L6-v2`) |
 | Vector Store | FAISS |
 
@@ -48,13 +47,11 @@ Copie o arquivo de exemplo e preencha com suas próprias chaves:
 ```bash
 cp .env.example .env
 ```
-
 ```env
 GROQ_API_KEY=sua_chave_groq
 FIRECRAWL_API_KEY=sua_chave_firecrawl
 FIRECRAWL_API_URL=sua_url_firecrawl
 ```
-
 > Groq e Firecrawl oferecem planos gratuitos.
 
 **5. Crie as pastas necessárias:**
@@ -123,4 +120,3 @@ Projeto de estudo em Engenharia de IA, com foco em RAG e pipelines de dados não
 ## 🙏 Créditos
 
 Projeto desenvolvido a partir do material de aula da [Asimov Academy](https://github.com/asimov-academy), como parte da trilha de Engenharia de IA. A base do projeto (estrutura, stack e conceito original) veio do curso; a implementação, ajustes e evolução deste repositório são de autoria própria.
-
